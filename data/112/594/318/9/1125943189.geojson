@@ -308,7 +308,6 @@
     "src:population":"geonames",
     "wof:belongsto":[
         85632493,
-        85681315,
         102191583,
         136253053
     ],
@@ -327,14 +326,13 @@
             "country_id":-1,
             "dependency_id":85632493,
             "empire_id":136253053,
-            "locality_id":1125943189,
-            "region_id":85681315
+            "locality_id":1125943189
         }
     ],
     "wof:id":1125943189,
     "wof:lastmodified":1690849801,
     "wof:name":"Alofi",
-    "wof:parent_id":85681315,
+    "wof:parent_id":85632493,
     "wof:placetype":"locality",
     "wof:population":624,
     "wof:population_rank":2,

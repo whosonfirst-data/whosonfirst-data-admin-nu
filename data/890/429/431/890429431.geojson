@@ -75,7 +75,6 @@
     "wd:wordcount":107,
     "wof:belongsto":[
         85632493,
-        85681315,
         102191583,
         136253053
     ],
@@ -96,14 +95,13 @@
             "country_id":-1,
             "dependency_id":85632493,
             "empire_id":136253053,
-            "locality_id":890429431,
-            "region_id":85681315
+            "locality_id":890429431
         }
     ],
     "wof:id":890429431,
     "wof:lastmodified":1690849800,
     "wof:name":"Hakupu",
-    "wof:parent_id":85681315,
+    "wof:parent_id":85632493,
     "wof:placetype":"locality",
     "wof:population":221,
     "wof:population_rank":2,
